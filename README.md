@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=pathakshashank17&show_icons=true)
-<a href="https://github.com/pathakshashank17/Conways-Game-of-Life-CPP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pathakshashank17&repo=Conways-Game-of-Life-CPP" />
-</a>

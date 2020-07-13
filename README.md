@@ -1,4 +1,4 @@
-<img alt="Intro" src="https://raw.githubusercontent.com/pathakshashank17/pathakshashank17/master/icons/intro.png">
+<img alt="Intro" src="https://raw.githubusercontent.com/pathakshashank17/pathakshashank17/master/icons/intro.png" width=700>
 
 ## I am an Electrical Engineering undergrad at IIT(BHU), Varanasi, keen about cosmos, music and building interesting stuff.
 

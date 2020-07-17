@@ -10,12 +10,12 @@
    <img src="https://cdn.svgporn.com/logos/nodejs.svg" title="NodeJS" width="60"/>
    <img src="https://cdn.svgporn.com/logos/react.svg" title="React" width="60"/>
    <img src="https://cdn.svgporn.com/logos/javascript.svg" title="JavaScript" width="60" />
-   <img src="https://cdn.svgporn.com/logos/express.svg" width="50" title="ExpressJS" width="60" />
-   <img src="https://cdn.svgporn.com/logos/jquery.svg" title="jQuery" width="60" />
-   <img src="https://cdn.svgporn.com/logos/mongodb.svg" title="MongoDB" width="60" />
+   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" title="ExpressJS" width="60" />
+   <img src="https://img.icons8.com/color/60/000000/jquery.png" title="jQuery" width="60" />
+   <img src="https://img.icons8.com/color/60/000000/mongodb.png" title="MongoDB" width="60" />
    <img src="https://cdn.svgporn.com/logos/html-5.svg" title="HTML" width="60" />
    <img src="https://cdn.svgporn.com/logos/css-3.svg" title="CSS" width="60" />
-   <img src="https://cdn.svgporn.com/logos/bootstrap.svg" title="Bootstrap" width="60" />
+   <img src="https://img.icons8.com/color/60/000000/bootstrap.png" title="Bootstrap" width="60" />
    <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" title="C++" width="60" />
    <img src="https://cdn.svgporn.com/logos/c.svg" title="C" width="60" />
    <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" width="60" />

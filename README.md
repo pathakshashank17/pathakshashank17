@@ -1,7 +1,7 @@
 <h2 align="center"> <b>Hello</b> there, I'm <b>Shashank</b> 🌛</h2>
-<p align="center"> <code> 
+<p align="center"> <samp> 
    I am a beginner Full Stack Developer keen about building interesting and useful stuff. I am currently pursuing B.Tech in Electrical Engineering at Indian Institute of Technology (BHU), Varansi. Apart from development, my interest draws me towards astronomy 👨‍🚀, photography 📷 and music 🎧.
-  </code>
+  </samp>
 </p><br>
 <h3 align="center"> I ❤️ using :</h3>
 <p align="center">

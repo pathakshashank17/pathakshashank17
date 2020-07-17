@@ -7,18 +7,18 @@
 <br>
 <h3 align="center"> I ❤️ using :</h3>
 <p align="center">
-   <img src="https://img.icons8.com/color/60/000000/nodejs.png" title="NodeJS" />
-   <img src="https://img.icons8.com/color/60/000000/react-native.png" title="React" />
-   <img src="https://img.icons8.com/color/60/000000/javascript.png" title="JavaScript" />
-   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" title="ExpressJS"/>
-   <img src="https://img.icons8.com/color/60/000000/jquery.png" title="jQuery" />
-   <img src="https://img.icons8.com/color/60/000000/mongodb.png" title="MongoDB"/>
-   <img src="https://img.icons8.com/color/60/000000/html-5.png" title="HTML" />
-   <img src="https://img.icons8.com/color/60/000000/css3.png" title="CSS" />
-   <img src="https://img.icons8.com/color/60/000000/bootstrap.png" title="Bootstrap" />
-   <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png" title="C++" />
-   <img src="https://img.icons8.com/color/60/000000/c-programming.png" title="C" />
-   <img src="https://img.icons8.com/color/60/000000/python.png" title="Python" />
+   <img src="https://cdn.svgporn.com/logos/nodejs.svg" title="NodeJS" width="60"/>
+   <img src="https://cdn.svgporn.com/logos/react.svg" title="React" width="60"/>
+   <img src="https://cdn.svgporn.com/logos/javascript.svg" title="JavaScript" width="60" />
+   <img src="https://cdn.svgporn.com/logos/express.svg" width="50" title="ExpressJS" width="60" />
+   <img src="https://cdn.svgporn.com/logos/jquery.svg" title="jQuery" width="60" />
+   <img src="https://cdn.svgporn.com/logos/mongodb.svg" title="MongoDB" width="60" />
+   <img src="https://cdn.svgporn.com/logos/html-5.svg" title="HTML" width="60" />
+   <img src="https://cdn.svgporn.com/logos/css-3.svg" title="CSS" width="60" />
+   <img src="https://cdn.svgporn.com/logos/bootstrap.svg" title="Bootstrap" width="60" />
+   <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" title="C++" width="60" />
+   <img src="https://cdn.svgporn.com/logos/c.svg" title="C" width="60" />
+   <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" width="60" />
 </p>
 <br>
 <p align='center'>

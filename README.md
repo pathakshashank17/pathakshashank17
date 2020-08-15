@@ -22,7 +22,7 @@
 </p> -->
 <br> 
 
-<h2 align="center">Some of the repos</h3>
+<h2 align="center">Some of my repos</h3>
 
 ### Hobby Projects
 - [Rebot](https://github.com/pathakshashank17/Rebot) (WhatsApp Bot)

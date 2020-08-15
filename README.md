@@ -20,7 +20,28 @@
    <img src="https://img.icons8.com/color/60/000000/bootstrap.png" title="Bootstrap" width="60" />
    <img src="https://img.icons8.com/color/60/000000/mongodb.png" title="MongoDB" width="60" />
 </p> -->
-<br>
+<br> 
+
+<h2 align="center">Some of the repos</h3>
+
+### Hobby Projects
+- [Rebot](https://github.com/pathakshashank17/Rebot) (WhatsApp Bot)
+- Chrome Extensions
+  - [Lookout](https://github.com/pathakshashank17/Lookout)
+  - [Bordify](https://github.com/pathakshashank17/Bordify)
+- Miscellaneous
+  - [Conways-Game-of-Life](https://github.com/pathakshashank17/Conways-Game-of-Life-JS)
+  - [Slit-Scanning](https://github.com/pathakshashank17/Slit-Scanning)
+  - [google-err](https://github.com/pathakshashank17/google-err) (npm package)
+
+### Practice
+- [Todo](https://github.com/pathakshashank17/Todo-List)
+- [NEvernote](https://github.com/pathakshashank17/NEvernote)
+- [Blogg](https://github.com/pathakshashank17/Blogg)
+- [Work-In-Progress](https://github.com/pathakshashank17/Work-In-Progress)
+
+</div>
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pathakshashank17&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github stats" title="Github Stats">
 </p>

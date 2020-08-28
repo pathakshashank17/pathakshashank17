@@ -1,10 +1,13 @@
 <h2 align="center"> Hi, I'm Shashank 🌛</h2>
+
 <p align="center"> 
    <samp> 
       Just a student who is keen about building interesting and useful stuff. I am currently pursuing B.Tech in Electrical Engineering at Indian Institute of           Technology (BHU), Varansi. Apart from development, my interest draws me towards astronomy 👨‍🚀, photography 📷 and music 🎧.
    </samp>
 </p> 
+
 <br>
+
 <!-- <h3 align="center"> I ❤️ using :</h3>
 <p align="center">
    <img src="https://cdn.svgporn.com/logos/nodejs.svg" title="NodeJS" width="60"/>
@@ -20,12 +23,14 @@
    <img src="https://img.icons8.com/color/60/000000/bootstrap.png" title="Bootstrap" width="60" />
    <img src="https://img.icons8.com/color/60/000000/mongodb.png" title="MongoDB" width="60" />
 </p> -->
+
 <br> 
 
-<h2 align="center">Some of my repos</h3>
+<!-- <h2 align="center">Some of my repos</h2>
 
 ### Hobby Projects
 - [Rebot](https://github.com/pathakshashank17/Rebot) (WhatsApp Bot)
+- [p5](https://github.com/pathakshashank17/p5)
 - Chrome Extensions
   - [Lookout](https://github.com/pathakshashank17/Lookout)
   - [Bordify](https://github.com/pathakshashank17/Bordify)
@@ -38,9 +43,7 @@
 - [Todo](https://github.com/pathakshashank17/Todo-List)
 - [NEvernote](https://github.com/pathakshashank17/NEvernote)
 - [Blogg](https://github.com/pathakshashank17/Blogg)
-- [Work-In-Progress](https://github.com/pathakshashank17/Work-In-Progress)
-
-</div>
+- [Work-In-Progress](https://github.com/pathakshashank17/Work-In-Progress) -->
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pathakshashank17&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github stats" title="Github Stats">

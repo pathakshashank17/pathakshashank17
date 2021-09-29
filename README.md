@@ -2,7 +2,7 @@
 
 <p align="center"> 
    <samp> 
-      Just a student who is keen about building interesting and useful stuff. I am currently pursuing B.Tech in Electrical Engineering at Indian Institute of           Technology (BHU), Varansi. Apart from development, my interest draws me towards astronomy 👨‍🚀, photography 📷 and music 🎧.
+      Just a student who is keen about building interesting and useful stuff. I am currently pursuing B.Tech in Electrical Engineering at Indian Institute of           Technology (BHU), Varanasi. Apart from development, my interest draws me towards astronomy 👨‍🚀, photography 📷 and music 🎧.
    </samp>
 </p> 
 

@@ -45,10 +45,10 @@
 - [Blogg](https://github.com/pathakshashank17/Blogg)
 - [Work-In-Progress](https://github.com/pathakshashank17/Work-In-Progress) -->
 
-<p align='center'>
+<!-- <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pathakshashank17&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github stats" title="Github Stats">
-</p>
-<br>
+</p> -->
+<!-- <br> -->
 <h3 align="center"> Find Me at </h3>
 <p align="center">
 <!--     <a href="https://www.github.com/pathakshashank17/" target="_blank">
